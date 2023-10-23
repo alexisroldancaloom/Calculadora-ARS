@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora-ARS</string>
+    <string name="coeficienteA">Coefficient a</string>
+    <string name="coeficienteB">Coefficient b</string>
+    <string name="coeficienteC">Coefficient c</string>
+    <string name="masa">Mass</string>
+    <string name="gravedad">Gravity</string>
+    <string name="altura">Height</string>
+    <string name="catetoA">Cathetus 1</string>
+    <string name="catetoB">Cathetus 2</string>
+    <string name="textoBoton">Calculate</string>
+    <string name="textoBotonSelec">Select another formula</string>
+    <string name="formCuadra">Quadratic formula</string>
+    <string name="formPita">Pythagorean Theorem</string>
+    <string name="formEPC">Equation of Gravitational Potential Energy</string>
+    <string name="errorPosit">All numbers must be positive</string>
+    <string name="errorReales">No real solutions</string>
+    <string name="res">Result</string>
+    <string name="raices">Roots</string>
+    <string name="ingreseTC">Please enter all fields</string>
+    <string name="selec">Select an option</string>
+    <string name="selecOV">Select a valid option</string>
+</resources>

@@ -1,0 +1,35 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Fondo con gradiente y sombra -->
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="10dp" />
+            <gradient
+                android:startColor="#F0F0F0"
+            android:endColor="#E0E0E0"
+            android:angle="90" /> <!-- Ángulo del gradiente (vertical) -->
+        </shape>
+    </item>
+    <!-- Borde -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#FFFFFF" />
+            <corners android:radius="20dp" />
+            <stroke
+                android:width="2dp"
+                android:color="#CCCCCC" /> <!-- Color del borde -->
+        </shape>
+    </item>
+    <!-- Sombra -->
+    <item>
+        <layer-list>
+            <item android:right="-1dp" android:left="-2dp" android:top="-2dp">
+                <shape>
+                    <solid android:color="#E0E0E0" />
+                    <corners android:radius="20dp" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+
+
+</layer-list>

@@ -1,0 +1,39 @@
+
+<resources>
+    <!--Español -->
+    <string name="app_name">Calculadora-ARS</string>
+    <string-array name="formulas">
+        <item>Seleccione una opción</item>
+        <item>Fórmula Cuadrática</item>
+        <item>Teorema de Pitágoras</item>
+        <item>Ecuación de la Energía Potencial Gravitatoria</item>
+    </string-array>
+    <string name="coeficienteA">Coeficiente a</string>
+    <string name="coeficienteB">Coeficiente b</string>
+    <string name="coeficienteC">Coeficiente c</string>
+
+    <string name="masa">Masa</string>
+    <string name="gravedad">Gravedad</string>
+    <string name="altura">Altura</string>
+
+    <string name="catetoA">Cateto 1</string>
+    <string name="catetoB">Cateto 2</string>
+
+    <string name="textoBoton">Calcular</string>
+    <string name="textoBotonSelec">Seleccionar otra formula</string>
+    <string name="formCuadra">Fórmula Cuadrática</string>
+    <string name="formPita">Teorema de Pitágoras</string>
+    <string name="formEPC">Ecuación de la Energía Potencial Gravitatoria</string>
+
+    <string name="errorPosit">Todos los numeros deben ser positivos</string>
+    <string name="errorReales">No hay soluciones reales</string>
+    <string name="res">Resultado</string>
+    <string name="raices">Raíces</string>
+    <string name="ingreseTC">Por favor ingrese todos los campos</string>
+    <string name="selec">Seleccione una opción</string>
+    <string name="selecOV">Seleccione una opción valida</string>
+
+    <!--Inglés -->
+
+
+</resources>
